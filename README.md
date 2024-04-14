@@ -20,12 +20,14 @@ https://www.freecodecamp.org/news/python-requirementstxt-explained/
 
 ## Venv
 
-```bash 
+```bash
+# To activate the venv 
 source venv/Scripts/activate
 ``` 
 
-```bash 
-source venv/Scripts/deactivate
+```bash
+# To deactivate the environment
+deactivate
 ``` 
 For more information
 https://python.land/virtual-environments/virtualenv
