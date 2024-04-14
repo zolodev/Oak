@@ -15,6 +15,11 @@ pip freeze > requirements.txt
 pip install -r requirements.txt
 ``` 
 
+## Check installed packages
+```bash 
+pip list
+``` 
+
 For more information
 https://www.freecodecamp.org/news/python-requirementstxt-explained/
 
