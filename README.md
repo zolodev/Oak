@@ -2,7 +2,7 @@
 
 More info coming soon...
 
-# Pre-requsition 
+# Prerequisite 
 
 ## Save pip packages
 
