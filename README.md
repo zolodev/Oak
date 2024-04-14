@@ -46,3 +46,10 @@ For more information
 https://www.freecodecamp.org/news/python-requirementstxt-explained/
 
 
+## Argon2
+More information at
+https://argon2.online/
+
+and 
+
+https://www.argon2.com/
